@@ -79,6 +79,10 @@ footer, section {
   width:150px;
 }
 
+.indent {
+    padding-left:10px;
+}
+
 /* Typography */
 
 h1, h2, h4, h5, h6, a {
