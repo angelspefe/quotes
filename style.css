@@ -84,6 +84,10 @@ footer, section {
     list-style-type: disc;
 }
 
+.line {
+    text-decoration: line-through;
+}
+
 /* Typography */
 
 h1, h2, h4, h5, h6, a {
